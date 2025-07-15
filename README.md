@@ -86,6 +86,16 @@ Modeling-Simulation-Projects/
 
 ## Reports
 Each project includes a detailed PDF report with methodology, equations, plots, and key findings.
+---
+
+## Credits
+
+These projects were jointly completed by:
+
+- **Kaushik Prajapati**
+- **Vraj Gandhi**
+
+Under the guidance of **Prof. Arnab K. Ray** as part of the *Modeling and Simulation* course at DA-IICT.
 
 ---
 ## How to Run the Code
